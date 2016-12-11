@@ -1,0 +1,63 @@
+
+.top{
+	margin-left:500px;
+	font-family: arial;
+}
+
+.student{
+	font-family: arial;
+	color:gray;
+	margin-left: 15px;
+}
+
+.imagen{
+	margin-left:180px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	border: 2.5px solid gray;
+}
+
+.mono{
+	margin-left: 500px;
+	margin-top: 15px;
+	font-family: arial;
+}
+
+.spisok{
+	color: gray;
+	margin-left: 40px;
+}
+
+.nomer{
+    margin-left: 500px;
+	margin-top: 15px;
+	font-family: arial
+}
+
+.nomer2{
+	font-family: arial;
+	margin-left: 60px;
+	color: gray;
+
+}
+
+.vk{
+	margin-left: 500px;
+	margin-top: 15px;
+	font-family: arial;
+}
+
+.vkk{
+	margin-left: 60px;
+}
+
+.fid{
+	margin-left: 500px;
+	margin-top: 15px;
+	font-family: arial;
+}
+
+.nomer4{
+	color: gray;
+	margin-left: 60px;
+}
